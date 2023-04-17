@@ -1,0 +1,8 @@
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\bin\C41_Utilities.dll
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\bin\C41_Utilities.pdb
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.csproj.AssemblyReference.cache
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.Properties.Resources.resources
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.csproj.GenerateResource.cache
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.csproj.CoreCompileInputs.cache
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.dll
+C:\Users\riccardo\source\repos\C41_Utilities\C41_Utilities\obj\Debug\C41_Utilities.pdb
